@@ -1,0 +1,126 @@
+			* { 
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+				/* got this from https://www.freecodecamp.org/news/html-page-width-height/ I had  areal struggle with items not spanning the page before i discovered the mythical css reset.*/
+			}
+			/*
+			.menue {
+				display: inline-block;
+				background-color: #d2c6a6;
+				width: 25%;
+				height: 5%;
+				padding: .25%;
+				margin: -.175%;
+				align-items: center;
+				justify-content: center;
+				cursor: pointer;
+				position: sticky;
+				top: 0;
+				box-sizing: border-box;
+				border-width: .1%;
+				border-color: #5B533E;
+				border-style: inset;
+				border-collapse: collapse;
+			}
+			.menue:hover {
+				background-color: #B1A27C;
+			}
+			*/
+			.textbox {
+				display: inline-block;
+				margin: 0;
+				padding: 4% ;
+			}
+			.albumcontainer {
+				height: 25%;
+				width: 100%;
+				display: inline-flex;
+				padding: 2%;
+			}
+			.menueTable {
+				width: 100%; 
+				height: 5%;
+				border-collapse:  collapse; 
+				background-color: #d2c6a6; 
+				text-align: center; 
+				border: 1px solid black;
+				position: sticky;
+				top: 0;
+			}
+			.menueData {
+				border: 1px solid black;
+				width: 25%;
+			}
+			.concertTable {
+				width: 100%;
+				border-collapse: collapse;
+			}
+			.concertData {
+				width: 33%;
+				empty-cells: show;
+			}
+			table.concertTable td,th {
+				border: 1px solid black;
+				padding: 1%;
+
+			}
+			h1 {
+				font-size: 8em;
+			}
+			h2 {
+				font-size: 4em;
+			}
+			h3 {
+				font-size: 3em;
+			}
+			h4 {
+				font-size: 1.5em;
+			}
+			p {
+				font-size: 1.5em;
+			}
+			table.menueTable td:hover{
+				background-color: #B1A27C;
+			}
+			table.menueTable a {
+				color: black;
+				text-decoration: none;
+			}
+			legend {
+				border: 1px solid grey;
+				border-radius: 10px;
+				padding: 2%;
+				background-color: #d9d9d9;
+			}
+			fieldset {
+				border-radius: 10px;
+				padding: 2%;
+			}
+			.formLabel {
+				width: 30%;
+				float: left;
+			}
+			.submit {
+				width: 50%;
+				margin-left: 25%;
+				border-radius: 10px;
+				padding: 1%;
+			}
+			input {
+				width: 60%;
+				margin: 1%;
+			}
+			input>text:hover {
+				cursor: text;
+			}
+			select:hover {
+				cursor: pointer;
+			} 
+			input>submit:hover	{
+				cursor: pointer;
+			}
+			form {
+				margin-left: 33.333%;
+				margin-right: 33.33333%;
+			}

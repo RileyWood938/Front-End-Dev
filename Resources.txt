@@ -1,0 +1,19 @@
+How to Vertically Center Text with CSS - W3Docs
+HTML vs Body: How to Set Width and Height for Full Page Size (freecodecamp.org)
+How to Add Border Inside a Div (w3docs.com)
+CSS border-style property (w3schools.com)
+HTML Forms (w3schools.com)
+CSS text-overflow property (w3schools.com)
+CSS !important Property (w3schools.com)
+HTML: How to center align a form - Stack Overflow
+Lorem Ipsum - All the facts - Lipsum generator
+HTML Video (w3schools.com)
+(602) Discord user joined channel sound - YouTube
+HTML Iframes (w3schools.com)
+html - My YouTube video wont show in iframe - Stack Overflow
+javascript - How to embed an autoplaying YouTube video in an iframe? - Stack Overflow
+What is the difference between inline-flex and inline-block in CSS? - GeeksforGeeks
+Breaking to a new row with flexbox | Tobias Ahlin
+Wrapping and breaking text - CSS: Cascading Style Sheets | MDN (mozilla.org)
+CSS Flexbox Responsive (w3schools.com)
+How to Link to a Separate CSS File in HTML page | Learn Web Tutorials
